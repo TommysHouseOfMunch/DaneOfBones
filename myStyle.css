@@ -1,8 +1,24 @@
 body{
 	background-color: black;
-	color:pink;
+	
+
 }
 .busName{
 
 	color:#F511C7;
+	text-align: center;
+	
+	font-family: impact;
+	margin:0;
+	
+
+}
+.about{
+	background-color: #F511C7;
+	color:black;
+}
+
+.active{
+	background-color: #F511C7;
+	color:black;
 }
