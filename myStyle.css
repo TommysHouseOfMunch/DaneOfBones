@@ -1,4 +1,8 @@
-.header{
-	float: right;
-	
+body{
+	background-color: black;
+	color:pink;
+}
+
+#busName{
+	color:pink;
 }
