@@ -1,5 +1,7 @@
 body{
 	background-color: black;
+	color:#F511C7;
+	font-size: 16px;
 	
 
 }
@@ -10,15 +12,3 @@ body{
 	
 	font-family: impact;
 	margin:0;
-	
-
-}
-.about{
-	background-color: #F511C7;
-	color:black;
-}
-
-.active{
-	background-color: #F511C7;
-	color:black;
-}
